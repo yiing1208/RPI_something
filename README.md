@@ -49,5 +49,5 @@ for codec in H264 MPG2 WVC1 MPG4 MJPG WMV9 ; do echo -e "$codec:\t$(vcgencmd cod
 ```
 vcgencmd commands
 ```
-
+(ref:[https://mhelp.pro/mikrotik-fail2ban-blocking-brute-force-attacks/](https://blog.gtwang.org/iot/raspberry-pi-vcgencmd-hardware-information/))
 
